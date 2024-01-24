@@ -38,3 +38,6 @@ body{
     padding: 16px;
     cursor: pointer;
 }
+#minutes, #seconds{
+    cursor: pointer;
+}
